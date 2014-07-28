@@ -1,0 +1,16 @@
+[
+    { 
+        "caption": "EasyElement",
+        "children":
+            [
+                { "caption": "Bold", "command": "easy_element", "args": { "element_start": "<strong>", "element_end": "</strong>" } },
+                { "caption": "Italic", "command": "easy_element", "args": { "element_start": "<i>", "element_end": "</i>" } },
+                { "caption": "h1", "command": "easy_element", "args": { "element_start": "<h1>", "element_end": "</h1>" } },
+                { "caption": "h2", "command": "easy_element", "args": { "element_start": "<h2>", "element_end": "</h2>" } },
+                { "caption": "h3", "command": "easy_element", "args": { "element_start": "<h3>", "element_end": "</h3>" } },
+                { "caption": "h4", "command": "easy_element", "args": { "element_start": "<h4>", "element_end": "</h4>" } },
+                { "caption": "h5", "command": "easy_element", "args": { "element_start": "<h5>", "element_end": "</h5>" } },
+                { "caption": "h6", "command": "easy_element", "args": { "element_start": "<h6>", "element_end": "</h6>" } },
+            ] 
+    }    
+]
