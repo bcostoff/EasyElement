@@ -1,7 +1,7 @@
 EasyElement
 ===========
 
-Wrap HTML tags around selected text in Sublime Text 3
+Wrap HTML tags around selected text in Sublime Text 3 easily using the right click menu.
 
 
 Installation
@@ -32,4 +32,4 @@ The "Packages" packages directory is located differently in different platforms.
 Using
 -----
 
-Right click on any selected word choose a tag under Easy Element to wrap around the selected word. 
+Right click on any selected word, choose a tag under Easy Element to wrap around the selected word. 
