@@ -29,7 +29,7 @@ The "Packages" packages directory is located differently in different platforms.
     Preferences -> Browse Packages...
 
 
-Using
+Usage
 -----
 
-Right click on any selected word, choose a tag under Easy Element to wrap around the selected word. 
+Right click on any selected word or group of words, choose a tag under Easy Element to wrap around the selected text. 
